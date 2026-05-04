@@ -1,4 +1,6 @@
-## Hi there 👋 Im an IT Professional 
+## Hi, I'm Juan, an IT Professional👋 
+Construction Pro 🏗️ ➔ IT Help Desk 💻
+I spent years on job sites learning that the best tool is a solid plan. Now that I'm in IT, I use that same 'get-it-done' attitude to help people get back to work without the tech headaches.
 
 <!--
 **juantercerodiego/juantercerodiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
