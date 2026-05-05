@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [System Setup & Lab Environment](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [System Setup & Lab Environment](https://github.com/juantercerodiego/system-setup-lab-environment)
    
   - [The Ticket Lifecycle](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Active Directory & User Management</b>
