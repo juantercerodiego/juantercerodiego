@@ -9,7 +9,7 @@
    
   - [The Ticket Lifecycle](https://github.com/juantercerodiego/ticket-lifecycle)
 - <b>Active Directory & User Management</b>
-  - [Hands-On User Management: From Server Setup to Employee Login](https://github.com/joshmadakorcc/configure-ad)
+  - [User Management: From Server Setup to Employee Login](https://github.com/joshmadakorcc/configure-ad)
    
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
