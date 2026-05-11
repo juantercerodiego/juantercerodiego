@@ -9,7 +9,8 @@
    
   - [The Ticket Lifecycle](https://github.com/juantercerodiego/ticket-lifecycle)
 - <b>Active Directory & User Management</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Hands-On User Management: From Server Setup to Employee Login](https://github.com/joshmadakorcc/configure-ad)
+   
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
