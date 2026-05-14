@@ -11,7 +11,7 @@
 - <b>Active Directory & User Management</b> (Azure)
   - [User Management: From Server Setup to Employee Login](https://github.com/juantercerodiego/server-setup-to-employee-login)
    
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/juantercerodiego/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
