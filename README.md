@@ -9,9 +9,13 @@
    
   - [The Ticket Lifecycle](https://github.com/juantercerodiego/ticket-lifecycle)
 - <b>Active Directory & User Management</b> (Azure)
+  
+  - [Azure Virtual Machines & Network Infrastructure Setup](https://github.com/juantercerodiego/-azure-network-protocols)
+ 
+  
   - [User Management: From Server Setup to Employee Login](https://github.com/juantercerodiego/server-setup-to-employee-login)
    
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/juantercerodiego/-azure-network-protocols)
+    
 
 <h2>🤳Connect with me:</h2>
 
