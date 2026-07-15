@@ -1,7 +1,8 @@
 <h1>Hi, I'm Juan, an <a href="https://linkedin.com/in/juan-t-diego">IT Professional</a> 👋 </h1>
 
-<img align="middle" margin-top="40px" alt="coding gif" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
-
+<p align="center">
+  <img alt="coding gif" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+</p>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
