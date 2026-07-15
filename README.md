@@ -1,4 +1,4 @@
-<h1>Hi, I'm Juan 👋 </h1>
+<h1>Hi, I'm Juan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="40" height="40" /> </h1>
 Entry-Level IT Support Technician with hands-on experience building virtual cloud networks, managing Active Directory, and resolving user issues through help desk ticketing systems. Skilled in user provisioning, troubleshooting Windows environments, and core networking fundamentals. Eager to bring practical, hands-on lab experience and a customer-first mindset to a Help Desk or IT Support role.
 
 <p align="center">
