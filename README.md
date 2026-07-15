@@ -2,7 +2,7 @@
 Entry-Level IT Support Technician with hands-on experience building virtual cloud networks, managing Active Directory, and resolving user issues through help desk ticketing systems. Skilled in user provisioning, troubleshooting Windows environments, and core networking fundamentals. Eager to bring practical, hands-on lab experience and a customer-first mindset to a Help Desk or IT Support role.
 
 <p align="center">
- <img width="1920" height="1030" alt="The-Impact-of-RMM-Tools-on-Modern-IT-Support" src="https://github.com/user-attachments/assets/7c109cc6-3451-46c5-b38a-fed17cd5b301" />
+ <img width="1920" height="900" alt="The-Impact-of-RMM-Tools-on-Modern-IT-Support" src="https://github.com/user-attachments/assets/7c109cc6-3451-46c5-b38a-fed17cd5b301" />
 </p>
 <h2>👨‍💻 Information Technology Projects: 🧪</h2>
 
