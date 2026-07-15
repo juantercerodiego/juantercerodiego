@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="coding gif" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 </p>
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Projects: 🧪</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [System Setup & Lab Environment](https://github.com/juantercerodiego/system-setup-lab-environment)
