@@ -2,10 +2,10 @@
 Entry-Level IT Support Technician with hands-on experience building virtual cloud networks, managing Active Directory, and resolving user issues through help desk ticketing systems. Skilled in user provisioning, troubleshooting Windows environments, and core networking fundamentals. Eager to bring practical, hands-on lab experience and a customer-first mindset to a Help Desk or IT Support role.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
 <br><br>
 </p>
-<h2>👨‍💻 Information Technology Projects: 🧪</h2>
+<h2> Information Technology Projects: 🧪</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [System Setup & Lab Environment](https://github.com/juantercerodiego/system-setup-lab-environment)
