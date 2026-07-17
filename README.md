@@ -3,7 +3,7 @@
 Entry-level IT Support Technician with hands-on experience in Azure, Active Directory, and osTicket help desk workflows. Skilled in Windows troubleshooting, user management, and core networking, with a strong focus on fast, customer-first problem solving.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="IT Banner">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="IT Banner">
 </p>
 
 ---
