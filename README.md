@@ -15,7 +15,6 @@ Entry-level IT Support Technician with hands-on experience in Azure, Active Dire
 
 * **osTicket (Help Desk Ticketing System)**
   * [System Setup & Lab Environment](https://github.com/juantercerodiego/system-setup-lab-environment)
-  * [The Ticket Lifecycle](https://github.com/juantercerodiego/ticket-lifecycle)
 
 * **Active Directory & User Management (Azure)**
   * [User Management: From Server Setup to Employee Login](https://github.com/juantercerodiego/server-setup-to-employee-login)
